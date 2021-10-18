@@ -1,1 +1,3 @@
 # MFA2022-B15
+## Executive Summary
+Our best model is *model7* as 56.8% of the data fit this regression model which represent the highest value of r-squared. There are 14 variables (X) in total that are able to explain in the price for 4 night for 2 people (Y). The most 2 important factors that cost the higher price of hotel in Madrid, Spain are *the review score rating and bathroom (number of available and cleaness)*. However, *property types and locations* have a negative impact on price for 4 night for 2 people. For example, the higher distance from central will cost the hotel for 4 nights for 2 propel to be lower such as Latine, San Blas - Canillejas or Hortaleza. 
